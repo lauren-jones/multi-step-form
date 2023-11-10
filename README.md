@@ -1,0 +1,2 @@
+- Add isDirty functionality to text input
+- Text box should have a red border when invalid
